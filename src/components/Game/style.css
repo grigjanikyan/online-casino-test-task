@@ -1,0 +1,20 @@
+.game_board {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    background: blue;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    border-radius: 50px;
+}
+
+.cards {
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.playButton {
+   position: relative;
+   right: 0px;
+}
